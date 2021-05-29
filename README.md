@@ -2,7 +2,7 @@
 Based on Kotlin Reactor Netty HTTP Server Skeleton.
 
 # Gradle Build
-1) OS
+1) OS \
     Window OS -> gradlew.bat \
-    Linux OS -> gradle
+    Linux OS -> gradle  \
 2) Run Server.kt
